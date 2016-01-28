@@ -1,2 +1,2 @@
 # MyAndroidProjects
-Android Projects
+Currently supports only Portrait mode.
